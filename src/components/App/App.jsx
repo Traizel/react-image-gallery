@@ -28,7 +28,7 @@ function App() {
       <header className="App-header">
         <h1 className="App-title">Hall of Fame</h1>
       </header>
-      <p>The Legends:</p>
+      <h2>The Legends</h2>
       <GalleryList 
       galleryLists={galleryList}
       getGallery={getGallery}
