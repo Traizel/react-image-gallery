@@ -19,7 +19,7 @@ This Project is a Gallery where the user can view and like pictures on the site.
 1. Open up your editor of choice and run an `npm install`
 2. Run `npm run server` in your terminal
 3. In another terminal, run `npm run client` to boot up the client side
-5. Your browser should automatically go to `localhost:5000`
+5. Your browser should automatically go to `localhost:3000`
 
 ## Usage
 
